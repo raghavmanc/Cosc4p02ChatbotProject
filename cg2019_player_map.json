@@ -1,0 +1,28 @@
+{
+    "site": "https://cg2019.gems.pro/Result/ShowPerson_List.aspx?SetLanguage=en-CA", 
+    "key": "#ctl00_ContentPlaceHolder1_tblParticipant",                               
+    "value": {
+        "key": ".DataRow(ODD/EVEN)",
+        "value": {
+            "Contingent": ".LM_ResultFlagContainer",
+            "Athlete": {
+                "Personal_Info": "https://cg2019.gems.pro/Result/ShowPerson.aspx?Person_GUID=10498f97-283e-45c9-bc95-064320f46487&SetLanguage=en-CA",
+                "value": {
+                    "Name" : "#txtPersonNameFML",
+                    "Contingent": "#txtContingent",
+                    "HomeTown" : "#txtHomeTown",
+                    "Type": "#txtParticipantTypeName",
+                    "Sport": "#txtSportName",
+                    "Age": "#ctl00_ContentPlaceHolder1_txtAge_lblFieldLabel",
+                    "Height": "#ctl00_ContentPlaceHolder1_txtHeight_lblFieldLabel",
+                    "Weight": "#ctl00_ContentPlaceHolder1_txtWeight_lblFieldLabel",
+                    "Team_Affiliation": "#ctl00_ContentPlaceHolder1_txtSchool_lblFieldLabel",
+                    "coach": "#ctl00_ContentPlaceHolder1_txtCoach_lblFieldLabel"
+                }
+            }
+        }
+    }
+
+
+
+}
